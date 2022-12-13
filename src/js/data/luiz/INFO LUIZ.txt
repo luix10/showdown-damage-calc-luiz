@@ -1,0 +1,4 @@
+dados retirados de:
+https://github.com/pkmn/randbats
+
+encontrado por busca de "gen1randombattle.js" na internet
